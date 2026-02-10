@@ -14,9 +14,11 @@ This feature has been a recurring request since Qt4 but has never received an of
 
 ## Demo
 
-[Video...](./medias/qt6_ComboBox_with_CheckBoxes.mp4)
-
 ![img](./medias/qt6_ComboBox_with_CheckBoxes.png)
+
+**Video:**
+
+https://github.com/user-attachments/assets/0110c0a9-f2ec-4f70-a819-0b68e0f63823
 
 ## Notes
 - In mainwindows.h there is a macro `#define TRACK_CHANGES 1` to enable/disable
