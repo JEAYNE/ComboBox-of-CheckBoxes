@@ -34,3 +34,15 @@ This demo is based on explantions and code from these url:
 2. https://stackoverflow.com/questions/8422760/combobox-of-checkboxes (2011-2019)
 4. https://notes84.blogspot.com/2016/05/c-qt56-combobox-with-checkboxes.html (2016)
 3. https://gist.github.com/mistic100/c3b7f3eabc65309687153fe3e0a9a720 (2017)
+
+## About SO
+
+I posted a reply to [stackoverflow](https://stackoverflow.com/questions/8422760/combobox-of-checkboxes) including a link to **this** repo.
+I quickly received an mail from the _Stack Overflow Moderation Team_:
+
+> Promotional content: We noticed that at least some of your posts seem to promote and/or link to a product, website, blog, library, YouTube channel/videos, project, source code repository, etc. 
+
+Then the post has been deleted with this explanation :
+
+> While this link may answer the question, it is better to include the essential parts of the answer here and provide the link for reference.
+> Link-only answers can become invalid if the linked page changes. - From [Review](https://stackoverflow.com/review/low-quality-posts/37095321)
